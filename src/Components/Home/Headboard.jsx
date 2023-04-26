@@ -1,6 +1,7 @@
 import React from "react";
-import { Swiper, SwiperSlide,Autoplay, Pagination } from "swiper/react";
+//import { Swiper, SwiperSlide,Autoplay, Pagination } from "swiper/react";
 //import { Autoplay, Pagination } from "swiper/react";
+import { Swiper, SwiperSlide } from 'swiper/react/swiper-react';
 import homeHeadboard from "../../assets/home/AwaqInteship-homeHeadboard.png";
 
 const imgSwiper = [{ name: "homeHeadboard", img: homeHeadboard, id: 1 }];

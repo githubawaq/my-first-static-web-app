@@ -1,6 +1,6 @@
 import React from "react";
 // Core modules imports are same as usual
-import { Navigation, Pagination } from 'swiper';
+//import { Navigation, Pagination } from 'swiper';
 // Direct React component imports
 import { Swiper, SwiperSlide } from 'swiper/react/swiper-react.js';
 

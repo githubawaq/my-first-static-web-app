@@ -5,7 +5,7 @@ import 'swiper/css';
 
 const Headboard = () => {
    return (
-     <p>ok<p>
+     1
      );
 };
 

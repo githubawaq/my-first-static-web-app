@@ -1,7 +1,11 @@
 import React from "react";
-//import { Swiper, SwiperSlide,Autoplay, Pagination } from "swiper/react";
-//import { Autoplay, Pagination } from "swiper/react";
-import { Swiper, SwiperSlide } from 'swiper/react/swiper-react';
+// Core modules imports are same as usual
+import { Navigation, Pagination } from 'swiper';
+// Direct React component imports
+import { Swiper, SwiperSlide } from 'swiper/react/swiper-react.js';
+
+
+
 import homeHeadboard from "../../assets/home/AwaqInteship-homeHeadboard.png";
 
 const imgSwiper = [{ name: "homeHeadboard", img: homeHeadboard, id: 1 }];

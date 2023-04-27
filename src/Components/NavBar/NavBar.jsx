@@ -1,3 +1,5 @@
+import React from "react";
+
 const Board = () => {
   return (
     <nav className="flex justify-between  bg-teal-500">

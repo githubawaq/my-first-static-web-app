@@ -1,5 +1,10 @@
 import React from "react";
-import { easeInOut, motion } from "framer-motion";
+//import { easeInOut, motion } from "framer-motion";
+
+import {AnimatePresence, motion} from "framer-motion/dist/framer-motion
+
+
+
 import chec from "../../assets/partners/chec.png";
 import booking from "../../assets/partners/booking.png";
 import ean from "../../assets/partners/ean.png";

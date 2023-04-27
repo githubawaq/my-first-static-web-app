@@ -1,11 +1,11 @@
 import React from "react";
 import Headboard from "./Headboard";
+import Board from "./Board";
 
 const Home = () => {
   
   return (
-    <div>    
-    <p>prueba</p>
+    <div>       
     <Headboard />      
     </div>
   );

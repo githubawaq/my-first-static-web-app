@@ -12,6 +12,7 @@ const Home = () => {
     <Headboard />      
     <Board />
     <Footer />
+    <Footer />
     </div>
   );
 };

@@ -16,6 +16,7 @@ const Footer = () => {
   return (
     <footer className="w-full	bg-grey-clear">
       <div>
+      <div> 1 </div>
         <div className="flex 	items-center justify-center text-grey">
           <h5 className="mt-5 mb-5 font-semibold	">CONFÍAN EN AWAQ</h5>
         </div>

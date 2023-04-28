@@ -11,8 +11,7 @@ const Home = () => {
     <NavBar /> 
     <Headboard />      
     <Board />
-    <Footer />
-    <Footer />
+    <Footer />   
     </div>
   );
 };

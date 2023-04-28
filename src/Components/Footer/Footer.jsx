@@ -95,19 +95,19 @@ const Footer = () => {
           <div className="h-full w-2/6 mb-5">
             <h5 className="font-semibold		">NAVEGACIÓN</h5>
             <div className="flex flex-col	">
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
                 Internships
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
                 Destinos
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
                 Programas
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
                 Alojamientos
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
                 Novedades
               </a>
             </div>
@@ -118,13 +118,13 @@ const Footer = () => {
               <a href="" className="no-underline	 text-base	 font-thin	text-grey ">
                 Aviso Legal
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
                 Mapa de Sitio
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
                 Política de cookies
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
                 Privacidad
               </a>
             </div>

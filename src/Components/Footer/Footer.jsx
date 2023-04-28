@@ -115,7 +115,7 @@ const Footer = () => {
           <div className="h-full w-2/6 mb-5">
             <h5 className="font-semibold		">INFORMACIÓN</h5>
             <div className="flex flex-col	">
-              <a href="" className="no-underline	 text-base	 font-thin	text-grey ">
+              <a href="https://www.pinterest.es/pin/AZK3k8xdjvtY18LdmfvuVx98Po19T4q9lquix_TiNXsIvfX7g53C_rs/" className="no-underline	 text-base	 font-thin	text-grey ">
                 Aviso Legal
               </a>
               <a className="no-underline	 text-base	 font-thin	text-grey " href="https://www.pinterest.es/search/pins/?rs=ac&len=2&q=taxidermia&eq=taxider&etslf=5328">

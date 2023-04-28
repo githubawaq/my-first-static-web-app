@@ -95,19 +95,19 @@ const Footer = () => {
           <div className="h-full w-2/6 mb-5">
             <h5 className="font-semibold		">NAVEGACIÓN</h5>
             <div className="flex flex-col	">
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="https://www.pinterest.es/search/pins/?rs=ac&len=2&q=taxidermia&eq=taxider&etslf=5328">
                 Internships
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="https://www.pinterest.es/search/pins/?rs=ac&len=2&q=taxidermia&eq=taxider&etslf=5328">
                 Destinos
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="https://www.pinterest.es/search/pins/?rs=ac&len=2&q=taxidermia&eq=taxider&etslf=5328">
                 Programas
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="https://www.pinterest.es/search/pins/?rs=ac&len=2&q=taxidermia&eq=taxider&etslf=5328">
                 Alojamientos
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="https://www.pinterest.es/search/pins/?rs=ac&len=2&q=taxidermia&eq=taxider&etslf=5328">
                 Novedades
               </a>
             </div>
@@ -118,13 +118,13 @@ const Footer = () => {
               <a href="" className="no-underline	 text-base	 font-thin	text-grey ">
                 Aviso Legal
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="https://www.pinterest.es/search/pins/?rs=ac&len=2&q=taxidermia&eq=taxider&etslf=5328">
                 Mapa de Sitio
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="https://www.pinterest.es/search/pins/?rs=ac&len=2&q=taxidermia&eq=taxider&etslf=5328">
                 Política de cookies
               </a>
-              <a className="no-underline	 text-base	 font-thin	text-grey " href="#">
+              <a className="no-underline	 text-base	 font-thin	text-grey " href="https://www.pinterest.es/search/pins/?rs=ac&len=2&q=taxidermia&eq=taxider&etslf=5328">
                 Privacidad
               </a>
             </div>

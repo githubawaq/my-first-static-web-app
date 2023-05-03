@@ -1,6 +1,7 @@
 import React from "react";
 import Headboard from "./Headboard";
 import Board from "./Board";
+import Programs from "./Programs";
 import NavBar  from "../NavBar/NavBar";
 import Footer  from "../Footer/Footer";
 

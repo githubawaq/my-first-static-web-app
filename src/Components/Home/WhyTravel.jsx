@@ -1,3 +1,4 @@
+import React from "react";
 import SeparatorHome from "../ReuseProvider/Separator";
 
 const WhyTravel = () => {

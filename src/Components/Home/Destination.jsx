@@ -1,5 +1,5 @@
 import React from "react";
-import colombia from "../../assets/images/colombia.jpg";
+//import colombia from "../../assets/images/colombia.jpg";
 import SeparatorHome from "../ReuseProvider/Separator";
 
 const Destination = () => {
